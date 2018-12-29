@@ -62,10 +62,6 @@
 		    <version>1.0.0.RELEASE</version>
 		</dependency>
 
-		<dependency>
-			<artifactId>spring-data-jpa-java8</artifactId>
-			<name>Spring Data JPA - Java 8 specific features</name>
-		</dependency>
 
 		<dependency>
 			<groupId>mysql</groupId>
